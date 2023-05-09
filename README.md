@@ -5,14 +5,14 @@
 </p>
 <hr>
 
-### <a href="https://github.com/tanonileandro"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="50"></a> <i><b>Skill Stats</b></i>
+### <a href="https://github.com/tanonileandro"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> <i><b>Skill Stats</b></i>
 <p align="center">
 <a href="https://github.com/tanonileandro">
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tanonileandro&layout=compact&langs_count=8&theme=dark"/>
 </a>
 </p>
 
-### <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50"> <i><b>Connect with me</b></i>
+### <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60"> <i><b>Connect with me</b></i>
 <p align="center">
   <a href="https://www.linkedin.com/in/leandro-tanoni/" target="blank"><img align="center"
       src="https://img.icons8.com/fluency/48/000000/linkedin.png"
