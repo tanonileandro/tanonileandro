@@ -11,9 +11,9 @@ Hi, I'm Tanoni Leandro!
 </p>
 
 <hr/>
-<p align="center" display="flex" margin-rigth= 20px>
+<p align="center" display="flex" margin-rigth= 30px>
 	<a href="https://github.com/tanonileandro" target="_self">
-		<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px>
+		<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
 	</a>
 	<a href="https://github.com/tanonileandro">
 		<img src="https://readme-typing-svg.herokuapp.com?lines=Programming+Technical+Student;Developer+Freelancer;Always%20learning%20new%20things&center=true&width=380&height=45">
