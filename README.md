@@ -9,8 +9,8 @@ Hi, I'm Tanoni Leandro!
 </p>
 
 <hr/>
-<p align="center" display="flex" justify-content="center" align-items="center">
-	<a href="https://github.com/tanonileandro">
+<p align="center" display="flex">
+	<a href="https://github.com/tanonileandro" justify-content="center" align-items="center">
 		<img src="https://readme-typing-svg.herokuapp.com?lines=Programming+Technical+Student;Developer+Freelancer;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
 </p>
