@@ -8,13 +8,11 @@ Hi, I'm Tanoni Leandro!
 	</a>
 </p>
 
-<hr/>
 <p align="center" display="flex">
 	<a href="https://github.com/tanonileandro" justify-content="center" align-items="center">
 		<img src="https://readme-typing-svg.herokuapp.com?lines=Programming+Technical+Student;Developer+Freelancer;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
 </p>
-<hr/>
 
 ### <a href="https://github.com/tanonileandro"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> Skill Stats
 <p align="center">
