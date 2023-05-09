@@ -3,10 +3,10 @@
 
 <hr>
 
-### <a href="https://github.com/tanonileandro"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="20"></a> <i><b>Git Stats</b></i>
+### <a href="https://github.com/tanonileandro"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="20"></a> <i><b>Git Skill Stats</b></i>
 <p align="center">
 <a href="https://github.com/tanonileandro">
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanonileandro&layout=compact&langs_count=10&theme=dark&custom_title=Skill&hide_title=True"/>
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanonileandro&layout=compact&langs_count=10&theme=dark&hide_title=True"/>
 </a>
 </p>
 
