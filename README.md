@@ -9,7 +9,7 @@ Hi, I'm Tanoni Leandro!
 		<img src="https://komarev.com/ghpvc/?username=tanonileandro&label=Profile%20views&color=0e75b6&style=flat" alt="tanonileandro" />
 	</a>
 </p>
-<br/>
+
 <hr/>
 <p align="center">
 	<a href="https://github.com/tanonileandro">
