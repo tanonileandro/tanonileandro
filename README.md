@@ -1,7 +1,7 @@
 <h1 align="center">
 Hi, I'm Tanoni Leandro!
 	<a href="https://github.com/tanonileandro" target="_self">
-		<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px>
+		<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px>
 	</a>
 </h1>
 <p align="center">
