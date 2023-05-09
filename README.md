@@ -1,6 +1,6 @@
 <p align="center">
 	<a href="https://github.com/tanonileandro">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Tanoni+Leandro;Programming+Technical+Student;Developer+Freelancer;Always%20learning%20new%20things&center=true&width=400&height=100">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Tanoni+Leandro;Programming+Technical+Student;Developer+Freelancer;Always%20learning%20new%20things&center=true&width=1000&height=50">
 	</a>
 </p>
 <p align="center">
