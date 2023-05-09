@@ -1,6 +1,5 @@
-<p width="1000">
-<i><b>Hello, I'm Tanoni Leandro</b></i>
-</p>
+##<i><b>Hello, I'm Tanoni Leandro</b></i>
+
 <hr>
 
 ### <a href="https://github.com/tanonileandro"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> <i><b>Skill Stats</b></i>
