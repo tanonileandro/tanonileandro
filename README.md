@@ -1,8 +1,6 @@
 <h1 align="center">
 Hi, I'm Tanoni Leandro!
-	<a href="https://github.com/tanonileandro" target="_self">
-		<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
-	</a>
+
 </h1>
 <p align="center">
 	<a href="https://github.com/tanonileandro">
@@ -11,7 +9,7 @@ Hi, I'm Tanoni Leandro!
 </p>
 
 <hr/>
-<p align="center" display="flex">
+<p align="center" display="flex" justify-content="center" align-items="center">
 	<a href="https://github.com/tanonileandro">
 		<img src="https://readme-typing-svg.herokuapp.com?lines=Programming+Technical+Student;Developer+Freelancer;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
