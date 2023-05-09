@@ -8,9 +8,6 @@ Hi, I'm Tanoni Leandro!
 	<a href="https://github.com/tanonileandro">
 		<img src="https://komarev.com/ghpvc/?username=tanonileandro&label=Profile%20views&color=0e75b6&style=flat" alt="tanonileandro" />
 	</a>
-	<a href="https://github.com/tanonileandro">
-		<img src="https://img.shields.io/github/followers/tanonileandro?label=Followers" alt="tanonileandro" />
-	</a>
 </p>
 <br/>
 <p align="center">
