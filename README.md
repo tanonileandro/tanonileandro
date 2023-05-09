@@ -11,7 +11,10 @@ Hi, I'm Tanoni Leandro!
 </p>
 
 <hr/>
-<p align="center">
+<p align="center" display="flex">
+	<a href="https://github.com/tanonileandro" target="_self">
+		<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px>
+	</a>
 	<a href="https://github.com/tanonileandro">
 		<img src="https://readme-typing-svg.herokuapp.com?lines=Programming+Technical+Student;Developer+Freelancer;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
