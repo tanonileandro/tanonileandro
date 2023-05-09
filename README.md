@@ -12,7 +12,7 @@
 </a>
 </p>
 
-### <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="30"> <i><b>Connect with me</b></i>
+### <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50"> <i><b>Connect with me</b></i>
 <p align="center">
   <a href="https://www.linkedin.com/in/leandro-tanoni/" target="blank"><img align="center"
       src="https://img.icons8.com/fluency/48/000000/linkedin.png"
