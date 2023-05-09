@@ -1,4 +1,4 @@
-<p width="70">
+<p width="200">
 <i><b>Hello, I'm Tanoni Leandro</b></i>
 </p>
 <hr>
