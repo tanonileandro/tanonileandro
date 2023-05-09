@@ -1,8 +1,6 @@
-<p align="center">
-	<a href="https://github.com/tanonileandro">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Tanoni+Leandro;Programming+Technical+Student;Developer+Freelancer;Always%20learning%20new%20things&center=true&width=380&height=40" style="width: 500px; margin-bottom: 10px;">
-	</a>
-</p>
+<h1>
+<i><b>Hi there, I'm Tanoni Leandro</b></i>
+</h1>
 <hr>
 
 ### <a href="https://github.com/tanonileandro"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> <i><b>Skill Stats</b></i>
