@@ -1,5 +1,5 @@
 <h1>
-<i><b>Hi there, I'm Tanoni Leandro</b></i>
+<i><b>Hello, I'm Tanoni Leandro</b></i>
 </h1>
 <hr>
 
