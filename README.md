@@ -6,7 +6,7 @@
 ### <a href="https://github.com/tanonileandro"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="20"></a> <i><b>Skill Stats</b></i>
 <p align="center">
 <a href="https://github.com/tanonileandro">
-  <img height="170em" width="170em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanonileandro&layout=compact&langs_count=10&theme=dark"/>
+  <img height="170em" width="300em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanonileandro&layout=compact&langs_count=10&theme=dark"/>
 </a>
 </p>
 
