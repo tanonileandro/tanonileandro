@@ -1,5 +1,5 @@
-<p align="center" display="flex">
-	<a href="https://github.com/tanonileandro" justify-content="center" align-items="center">
+<p align="center">
+	<a href="https://github.com/tanonileandro" width="100">
 		<img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Tanoni+Leandro;Programming+Technical+Student;Developer+Freelancer;Always%20learning%20new%20things&center=true&width=380&height=55">
 	</a>
 </p>
@@ -17,7 +17,7 @@
 </a>
 </p>
 
-### 🤝 Connect with me
+### 🤝🏻 Connect with me
 <p align="center" display="">
   <a href="https://www.linkedin.com/in/leandro-tanoni/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
