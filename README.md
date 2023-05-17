@@ -1,5 +1,5 @@
 
-### <i><b>Hello, I'm <a href="https://tanonileandro-portfolio.netlify.app/" target="blank">Tanoni Leandro</a></b></i>
+### <i><b>Hello, I'm <a href="https://tanonileandro-portfolio.netlify.app/" target="_blank">Tanoni Leandro</a></b></i>
 
 <hr>
 
