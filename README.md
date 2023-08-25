@@ -1,4 +1,4 @@
-<p style="font-size: 100;">Hello, I'm <a href="https://tanonileandro.netlify.app/" target="_blank">Tanoni Leandro</a></p>
+<p style="font-size: 100;" height="200em">Hello, I'm <a href="https://tanonileandro.netlify.app/" target="_blank">Tanoni Leandro</a></p>
 <p>
   <a href="https://www.linkedin.com/in/leandro-tanoni/" target="blank"><img align="center"
       src="https://img.icons8.com/fluency/48/000000/linkedin.png"
