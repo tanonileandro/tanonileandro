@@ -17,7 +17,7 @@
 	
 <p align="center">
  <a href="https://github.com/tanonileandro">
-  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?&theme=dark&hide_border=true&hide_title=True"/>
+  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanonileandro&theme=dark&hide_border=true&hide_title=True"/>
  </a>
 </p>
 
