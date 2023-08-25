@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td>
-      <h1><i><b>Hello, I'm <a href="https://tanonileandro.netlify.app/" target="_blank">Tanoni Leandro</a></b></i></h1>
+      <h2><i><b>Hello, I'm <a href="https://tanonileandro.netlify.app/" target="_blank">Tanoni Leandro</a></b></i></h2>
     </td>
     <td>
       <p>
