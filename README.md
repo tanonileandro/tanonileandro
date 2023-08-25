@@ -1,19 +1,4 @@
-<style>
-  table {
-    border-collapse: collapse;
-    width: 100%;
-  }
-
-  table, th, td {
-    border: none; /* Elimina las líneas de las celdas */
-  }
-
-  th, td {
-    padding: 8px;
-    text-align: left;
-  }
-</style>
-<table>
+<table border="none">
   <tr>
     <td>
       <h2><i><b>Hello, I'm <a href="https://tanonileandro.netlify.app/" target="_blank">Tanoni Leandro</a></b></i></h2>
