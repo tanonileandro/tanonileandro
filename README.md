@@ -16,7 +16,7 @@
   <img height="200em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanonileandro&layout=compact&langs_count=20&theme=dark&hide_title=True"/>
 </a>
 <a href="https://github.com/tanonileandro">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanonileandro&theme=dracula&layout=compact)](https://github.com/deepshikhayadav/github-readme-stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanonileandro&theme=dark&layout=compact"/>
 </a>
 </p>
 
