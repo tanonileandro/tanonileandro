@@ -1,18 +1,18 @@
 <hr>
 
-### <picture><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20px></picture> <i><b>Skills</b></i>
+## <picture><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20px></picture> <i><b>Skills</b></i>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,python,django,flask,php,net,js,react,html,css,postgresql,mysql&perline=14" />
   </a>
 </p>
 
-### <img src="https://th.bing.com/th/id/R.011db7f1e14cdcefd5ed8b056f70d038?rik=NHHx7PD%2bLTi5YA&riu=http%3a%2f%2fui.trinine.net%2fwp%2fwp-content%2fuploads%2f2016%2f06%2f20160602_GraphAnimeIcon.gif&ehk=TXXGvgTPI6i%2f5xQe%2fW3mnT36hQPfIBwZcQsaKAlJWhs%3d&risl=&pid=ImgRaw&r=0" width="25"><i><b>&nbsp;Git stats</b></i>
+## <img src="https://th.bing.com/th/id/R.011db7f1e14cdcefd5ed8b056f70d038?rik=NHHx7PD%2bLTi5YA&riu=http%3a%2f%2fui.trinine.net%2fwp%2fwp-content%2fuploads%2f2016%2f06%2f20160602_GraphAnimeIcon.gif&ehk=TXXGvgTPI6i%2f5xQe%2fW3mnT36hQPfIBwZcQsaKAlJWhs%3d&risl=&pid=ImgRaw&r=0" width="25"><i><b>&nbsp;Git stats</b></i>
 <p align="center">
 <a href="https://github.com/tanonileandro">
   <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanonileandro&layout=compact&langs_count=10&theme=dark&hide_border=true&hide_title=True"/>
 </a>
-
+<hr>
 <a href="https://github.com/tanonileandro">
   <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanonileandro&theme=dark&hide_border=true&hide_title=True"/>
 </a>
