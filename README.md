@@ -15,6 +15,7 @@
   <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanonileandro&layout=compact&langs_count=10&theme=dark&hide_border=true&hide_title=True"/>
 </a>
 <br>
+<br>
 <a href="https://github.com/tanonileandro">
   <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanonileandro&theme=dark&hide_border=true&hide_title=True"/>
 </a>
@@ -33,7 +34,7 @@
       alt="_._.adam._" height="40" style="margin-right: 50px;"/></a>
   <a href = "mailto: tanoni44@gmail.com"><img align="center" src="https://img.icons8.com/fluency/48/000000/apple-mail.png" height="40"/></a>
 </p>
-<hr>
+
 <hr>
 <p align="center">
 	<a href="https://github.com/tanonileandro">
