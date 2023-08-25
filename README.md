@@ -1,4 +1,18 @@
+<style>
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
 
+  table, th, td {
+    border: none; /* Elimina las líneas de las celdas */
+  }
+
+  th, td {
+    padding: 8px;
+    text-align: left;
+  }
+</style>
 <table>
   <tr>
     <td>
