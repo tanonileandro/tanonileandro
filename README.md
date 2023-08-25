@@ -16,7 +16,7 @@
   <img height="200em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanonileandro&layout=compact&langs_count=20&theme=dark&hide_title=True"/>
 </a>
 <a href="https://github.com/tanonileandro">
-  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanonileandro&theme=dark&hide_border=true"  alt="tanonileandro"/>
+  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanonileandro&theme=dark&hide_border=true"/>
 </a>
 </p>
 
