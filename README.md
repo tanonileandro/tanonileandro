@@ -1,5 +1,3 @@
-### <i><b>Hello, I'm <a href="https://tanonileandro.netlify.app/" target="_blank">Tanoni Leandro</a></b></i>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/leandro-tanoni/" target="blank"><img align="center"
       src="https://img.icons8.com/fluency/48/000000/linkedin.png"
@@ -11,12 +9,14 @@
       src="https://img.icons8.com/fluency/48/000000/instagram-new.png"
       alt="_._.adam._" height="40" style="margin-right: 50px;"/></a>
   <a href = "mailto: tanoni44@gmail.com"><img align="center" src="https://img.icons8.com/fluency/48/000000/apple-mail.png" height="40"/></a>
+
+  <a href="https://github.com/tanonileandro">
+    <img src="https://komarev.com/ghpvc/?username=tanonileandro&label=Profile%20views&color=0e75b6&style=flat" alt="tanonileandro" />
+  </a>
 </p>
 
 <p align="center">
-	<a href="https://github.com/tanonileandro">
-		<img src="https://komarev.com/ghpvc/?username=tanonileandro&label=Profile%20views&color=0e75b6&style=flat" alt="tanonileandro" />
-	</a>
+
 </p>
 
 
