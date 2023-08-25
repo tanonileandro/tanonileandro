@@ -13,10 +13,10 @@
 ### <img src="https://th.bing.com/th/id/R.011db7f1e14cdcefd5ed8b056f70d038?rik=NHHx7PD%2bLTi5YA&riu=http%3a%2f%2fui.trinine.net%2fwp%2fwp-content%2fuploads%2f2016%2f06%2f20160602_GraphAnimeIcon.gif&ehk=TXXGvgTPI6i%2f5xQe%2fW3mnT36hQPfIBwZcQsaKAlJWhs%3d&risl=&pid=ImgRaw&r=0" width="25"><i><b>&nbsp;Git skill stats</b></i>
 <p align="center">
 <a href="https://github.com/tanonileandro">
-  <img height="200em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanonileandro&layout=compact&langs_count=20&theme=dark&hide_title=True"/>
+  <img height="200em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanonileandro&layout=compact&langs_count=10&theme=dark&hide_title=True"/>
 </a>
 <a href="https://github.com/tanonileandro">
-  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanonileandro&theme=dark&hide_border=true"/>
+  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanonileandro&theme=dark&hide_title=True"/>
 </a>
 </p>
 
