@@ -14,6 +14,7 @@
 <p align="center">
 <a href="https://github.com/tanonileandro">
   <img height="300em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanonileandro&layout=compact&langs_count=20&theme=dark&hide_title=True"/>
+  <img src="https://gifimage.net/wp-content/uploads/2017/09/android-gif-wallpaper-10.gif" width="500"/>
 </a>
 </p>
 
