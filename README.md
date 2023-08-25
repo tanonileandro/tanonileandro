@@ -1,4 +1,4 @@
-<p><font style="size: 30px;"><i><b>Hello, I'm <a href="https://tanonileandro.netlify.app/" target="_blank">Tanoni Leandro</a></b></i></font>
+<p><font style="size: 30px;" height="40"><i><b>Hello, I'm <a href="https://tanonileandro.netlify.app/" target="_blank">Tanoni Leandro</a></b></i></font>
   <a href="https://www.linkedin.com/in/leandro-tanoni/" target="blank"><img align="center"
       src="https://img.icons8.com/fluency/48/000000/linkedin.png"
       alt="adam pithewan" height="40" style="margin-right: 15px;" /></a>
