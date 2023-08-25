@@ -21,7 +21,7 @@
  </a>
 </p>
 
-### <picture><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="45"></picture>
+<hr>
 <p align="center">
   <a href="https://www.linkedin.com/in/leandro-tanoni/" target="blank"><img align="center"
       src="https://img.icons8.com/fluency/48/000000/linkedin.png"
@@ -35,7 +35,6 @@
   <a href = "mailto: tanoni44@gmail.com"><img align="center" src="https://img.icons8.com/fluency/48/000000/apple-mail.png" height="40"/></a>
 </p>
 
-<hr>
 <p align="center">
 	<a href="https://github.com/tanonileandro">
 		<img src="https://komarev.com/ghpvc/?username=tanonileandro&label=Profile%20views&color=0e75b6&style=flat" alt="tanonileandro" />
