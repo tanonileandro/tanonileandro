@@ -1,5 +1,4 @@
-<h1><i><b>Hello, I'm <a href="https://tanonileandro.netlify.app/" target="_blank">Tanoni Leandro</a></b></i></h1> 
-<p>
+<p><i><b>Hello, I'm <a href="https://tanonileandro.netlify.app/" target="_blank">Tanoni Leandro</a></b></i>
   <a href="https://www.linkedin.com/in/leandro-tanoni/" target="blank"><img align="center"
       src="https://img.icons8.com/fluency/48/000000/linkedin.png"
       alt="adam pithewan" height="40" style="margin-right: 15px;" /></a>
