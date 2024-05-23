@@ -3,9 +3,7 @@
 ### <picture><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20px></picture> <i><b>Skills</b></i>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,net,python,django,flask,php&perline=14" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=js,react,scss,css,html,postgresql,mysql&perline=14" />
+    <img src="https://skillicons.dev/icons?i=cs,net,python,django,flask,js,react,postgresql,mysql&perline=14" />
   </a>
 </p>
 
