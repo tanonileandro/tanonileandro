@@ -25,9 +25,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/leandro-tanoni/" target="blank"><img align="center"
       src="https://img.icons8.com/fluency/48/000000/linkedin.png"
-      alt="adam pithewan" height="40" style="margin-right: 50px;"/></a>
-  <a href="https://www.facebook.com/leandro.tanoni.5" target="blank"><img align="center"
-      src="https://img.icons8.com/fluency/48/000000/facebook.png"
+   
       alt="adam pithen wala" height="40" style="margin-right: 50px; border-radius: 30px;"/></a>
   <a href="https://www.instagram.com/tanonileandro/" target="blank"><img align="center"
       src="https://img.icons8.com/fluency/48/000000/instagram-new.png"
