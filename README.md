@@ -14,14 +14,7 @@
     <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanonileandro&layout=compact&langs_count=10&theme=dark&hide_border=true&hide_title=True"/>
   </a>
 </p>
-
 <hr>
-<p align="center">
-  <a href="https://www.linkedin.com/in/leandro-tanoni/" target="blank"><img align="center"
-      src="https://img.icons8.com/fluency/48/000000/linkedin.png"
-   alt="adam pithewan" height="40" style="margin-right: 50px;"/></a>
-</p>
-
 <p align="center">
 	<a href="https://github.com/tanonileandro">
 		<img src="https://komarev.com/ghpvc/?username=tanonileandro&label=Profile%20views&color=0e75b6&style=flat" alt="tanonileandro" />
