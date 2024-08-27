@@ -1,5 +1,6 @@
 <hr>
 
+> [!NOTE]
 ### 🔸 <b><i> Git stats</i></b>
 
 <p align="center">
