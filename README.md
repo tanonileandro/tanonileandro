@@ -9,12 +9,4 @@
   </a>
 </p>
 
-<p align="center">
-	<a href="https://github.com/tanonileandro">
-		<img src="https://komarev.com/ghpvc/?username=tanonileandro&label=Profile%20views&color=0e75b6&style=flat" alt="tanonileandro" />
-	</a>
-</p>
-
-<hr>
-
 
