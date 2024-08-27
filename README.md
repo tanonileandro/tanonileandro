@@ -1,6 +1,6 @@
 <hr>
 
-### <b><i>🔸 Git stats</i></b>
+### 🔸 <b><i> Git stats</i></b>
 
 <p align="center">
   <a href="https://github.com/tanonileandro"> 
